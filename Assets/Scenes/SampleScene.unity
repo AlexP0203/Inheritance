@@ -6540,7 +6540,7 @@ MonoBehaviour:
   maxAmmo: 6
   timeBetweenShots: 0.5
   isAutomatic: 0
-  prefabAlienShot: {fileID: 0}
+  prefabAlienShot: {fileID: 487163690456666478, guid: a31ee0965acb96543ab24b137fb6641b, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
